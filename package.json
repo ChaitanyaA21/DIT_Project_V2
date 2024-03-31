@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "express": "^4.19.1",
+    "mongoose": "^8.2.3"
+  },
+  "name": "projectdit",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
