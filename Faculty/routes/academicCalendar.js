@@ -5,4 +5,4 @@ const academicCalendar=require('../controllers/academicCalendar')
 
 router.route('/academicCalendar').get(academicCalendar)
 
-module.exports =router
+module.exports =router;
